@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.heading {
+    font-family: 'Poppins';
+    font-size: x-large;
+    font-weight: 600;
+    padding: 20px;
+    color: rgb(81, 77, 77);
+}
+
+.rawtext{
+    font-family: monospace;
+    width: 80%;
+    height: 100vh;
+    padding: 25px;
+    font-size: 2rem;
+    border-radius: 25px;
+    border-color: rgba(182, 182, 182, 0.352);
+}
